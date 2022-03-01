@@ -1,0 +1,103 @@
+body{
+    background-color: #fff;
+}
+
+.card{
+    width: 400px;
+    height: 500px;
+}
+
+.img-sayur {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gambar-logo {
+  width: 500px;
+  height: 400px;
+  display: block;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about{
+    align-items: center;
+}
+
+/* .navbar{
+    font-family: 'Poppins', sans-serif;
+} */
+
+
+.img-fluid{
+    width: 1000px;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    margin: 0 0 70px 0;
+    font-size: 40px;
+    color: white;
+    font-family: "Fredoka One", cursive;
+    letter-spacing: 3px;
+  }
+  .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .card- {
+    width: 277px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 10px;
+  }
+  
+  .profile {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Mulish", sans-serif;
+  }
+  
+  .profile img {
+    width: 35%;
+    border-radius: 10px;
+  }
+  
+  .profile p {
+    margin: 10px 0 0 0;
+    width: 100%;
+    line-height: 25px;
+    font-weight: 400;
+  }
+  
+  .profile span {
+    margin-top: 8px;
+    width: 100%;
+    line-height: 25px;
+    color: #999999;
+    font-weight: 800;
+  }
+
+footer{
+    background-color: #219F94;
+    margin: auto;
+    padding-top: 100px;
+}
+
+
